@@ -2,6 +2,7 @@ const sql = require('mysql');
 
 const mysqlconfig = require('../constants/constants')
 
+hello 
 
   const mysql = sql.createConnection({
     host: mysqlconfig.MYSQL_HOST,
